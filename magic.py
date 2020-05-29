@@ -286,3 +286,11 @@ def detect_from_content(byte_content):
 
     return _create_filemagic(mime_magic.buffer(byte_content),
                              none_magic.buffer(byte_content))
+fas dasf asdfasdf asf
+as
+d fas
+dfas 
+f
+asd f
+asf
+as adf as
